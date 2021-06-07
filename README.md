@@ -1,2 +1,3 @@
 # Zodiac project
-Spring Boot test application
+Spring Boot + Hibernate + MySQL test application
+
