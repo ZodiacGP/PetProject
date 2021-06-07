@@ -1,2 +1,2 @@
-# sweater
-Spring Boot learning
+# Zodiac project
+Spring Boot test application
