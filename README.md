@@ -1,5 +1,5 @@
 # Zodiac project
-### Spring Boot + Hibernate + MySQL test application
+### Spring Boot + Hibernate + MySQL application
 
 ##### The application has login/register with admin/user roles
 ##### Show/edit, image upload methods for items from database
