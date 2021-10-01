@@ -1,4 +1,4 @@
-# Zodiac project
+# Virtual database
 ## Spring Boot + Hibernate + MySQL + Spring Security application
 
 #### Some project features:
